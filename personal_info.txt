@@ -1,2 +1,3 @@
 Name: Dhruv Bantval
 Favorite Subject: Comp sci
+Learning git is fun
